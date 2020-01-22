@@ -5,7 +5,7 @@ services:
       image: nben/neuropythy:latest
       command: notebook
       ports:
-         - "8765:8888"
+         - "8888:8888"
       environment:
          - HCP_AUTO_RELEASE="$HCP_AUTO_RELEASE"
          - HCP_AUTO_DATABASE="$HCP_AUTO_DATABASE"
