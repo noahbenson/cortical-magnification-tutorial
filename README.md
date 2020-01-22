@@ -24,7 +24,7 @@ the following:
 # In bash:
 > git clone https://github.com/noahbenson/cortical-magnification-tutorial
 ...
-> cd neurohackademy2019
+> cd cortical-magnification-tutorial
 # Export our HCP credentials; if you have credentials in a file:
 > export HCP_CREDENTIALS="`cat ~/.hcp-passwd`"
 # If you just have them as a key and secret:
